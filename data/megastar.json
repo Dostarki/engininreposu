@@ -1,0 +1,402 @@
+{
+  "shows": [
+    {
+      "id": 1,
+      "name": "Moğol Akrobasi",
+      "slug": "mogol-akrobasi",
+      "short_description": "Megastar Organizasyon farkıyla Moğol Akrobasi gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<p><strong>Moğol Akrobasi</strong>, Megastar Organizasyon profesyonel ekibi tarafından sahnelenen eşsiz bir gösteridir. Antalya başta olmak üzere tüm Türkiye'de 5 yıldızlı oteller, özel etkinlikler, düğünler, kurumsal organizasyonlar ve daha birçok mekânda başarıyla sunulmaktadır.</p>\r\n<h3>Gösteri Özellikleri</h3>\r\n<ul>\r\n<li>Profesyonel ve deneyimli kadro</li>\r\n<li>Özgün kostüm ve sahne tasarımı</li>\r\n<li>Yüksek enerjili performans</li>\r\n<li>İzleyici ile etkileşim</li>\r\n<li>Özel isteklerinize göre özelleştirme</li>\r\n</ul>\r\n<h3>Nerelerde Tercih Edilir?</h3>\r\n<p>5 yıldızlı otel eğlenceleri, düğün ve nişan organizasyonları, kurumsal firmalar, yeni yıl partileri, doğum günleri, temalı partiler, çocuk etkinlikleri ve daha özel günlerinizde Megastar Organizasyon güvencesiyle sizlerle.</p>\r\n<p>Hemen bizimle iletişime geçin, etkinliğinizi Megastar kalitesiyle taçlandırın!</p>",
+      "image": "/uploads/msnocq1n-3d26514c.png",
+      "gallery": "[]",
+      "video_url": null,
+      "duration": "45",
+      "category": "Akrobati",
+      "featured": 1,
+      "sort_order": 0,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": "12"
+    },
+    {
+      "id": 2,
+      "name": "Felix Dance",
+      "slug": "felix-dance",
+      "short_description": "Megastar Organizasyon farkıyla Felix Dance gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<p><strong>Felix Dance</strong>, Megastar Organizasyon profesyonel ekibi tarafından sahnelenen eşsiz bir gösteridir. Antalya başta olmak üzere tüm Türkiye'de 5 yıldızlı oteller, özel etkinlikler, düğünler, kurumsal organizasyonlar ve daha birçok mekânda başarıyla sunulmaktadır.</p>\r\n<h3>Gösteri Özellikleri</h3>\r\n<ul>\r\n<li>Profesyonel ve deneyimli kadro</li>\r\n<li>Özgün kostüm ve sahne tasarımı</li>\r\n<li>Yüksek enerjili performans</li>\r\n<li>İzleyici ile etkileşim</li>\r\n<li>Özel isteklerinize göre özelleştirme</li>\r\n</ul>\r\n<h3>Nerelerde Tercih Edilir?</h3>\r\n<p>5 yıldızlı otel eğlenceleri, düğün ve nişan organizasyonları, kurumsal firmalar, yeni yıl partileri, doğum günleri, temalı partiler, çocuk etkinlikleri ve daha özel günlerinizde Megastar Organizasyon güvencesiyle sizlerle.</p>\r\n<p>Hemen bizimle iletişime geçin, etkinliğinizi Megastar kalitesiyle taçlandırın!</p>",
+      "image": "https://i.ibb.co/PsKT7C2Q/felixdance-kapakgorseli.png",
+      "gallery": "[]",
+      "video_url": "https://www.youtube.com/watch?v=x564xT-2v_Q",
+      "duration": "45",
+      "category": "Dans",
+      "featured": 1,
+      "sort_order": 1,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": "12"
+    },
+    {
+      "id": 3,
+      "name": "Cengizhan",
+      "slug": "cengizhan",
+      "short_description": "Megastar Organizasyon farkıyla Cengizhan gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<p><strong>Cengizhan</strong>, Megastar Organizasyon profesyonel ekibi tarafından sahnelenen eşsiz bir gösteridir. Antalya başta olmak üzere tüm Türkiye'de 5 yıldızlı oteller, özel etkinlikler, düğünler, kurumsal organizasyonlar ve daha birçok mekânda başarıyla sunulmaktadır.</p>\r\n<h3>Gösteri Özellikleri</h3>\r\n<ul>\r\n<li>Profesyonel ve deneyimli kadro</li>\r\n<li>Özgün kostüm ve sahne tasarımı</li>\r\n<li>Yüksek enerjili performans</li>\r\n<li>İzleyici ile etkileşim</li>\r\n<li>Özel isteklerinize göre özelleştirme</li>\r\n</ul>\r\n<h3>Nerelerde Tercih Edilir?</h3>\r\n<p>5 yıldızlı otel eğlenceleri, düğün ve nişan organizasyonları, kurumsal firmalar, yeni yıl partileri, doğum günleri, temalı partiler, çocuk etkinlikleri ve daha özel günlerinizde Megastar Organizasyon güvencesiyle sizlerle.</p>\r\n<p>Hemen bizimle iletişime geçin, etkinliğinizi Megastar kalitesiyle taçlandırın!</p>",
+      "image": "/uploads/msnocd4i-4fc40a23.png",
+      "gallery": "[]",
+      "video_url": null,
+      "duration": "45",
+      "category": "Gösteri",
+      "featured": 1,
+      "sort_order": 2,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": "16"
+    },
+    {
+      "id": 4,
+      "name": "Ritmo Cuba",
+      "slug": "ritmo-cuba",
+      "short_description": "Megastar Organizasyon farkıyla Ritmo Cuba gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<p><strong>Ritmo Cuba</strong>, Megastar Organizasyon profesyonel ekibi tarafından sahnelenen eşsiz bir gösteridir. Antalya başta olmak üzere tüm Türkiye'de 5 yıldızlı oteller, özel etkinlikler, düğünler, kurumsal organizasyonlar ve daha birçok mekânda başarıyla sunulmaktadır.</p>\r\n<h3>Gösteri Özellikleri</h3>\r\n<ul>\r\n<li>Profesyonel ve deneyimli kadro</li>\r\n<li>Özgün kostüm ve sahne tasarımı</li>\r\n<li>Yüksek enerjili performans</li>\r\n<li>İzleyici ile etkileşim</li>\r\n<li>Özel isteklerinize göre özelleştirme</li>\r\n</ul>\r\n<h3>Nerelerde Tercih Edilir?</h3>\r\n<p>5 yıldızlı otel eğlenceleri, düğün ve nişan organizasyonları, kurumsal firmalar, yeni yıl partileri, doğum günleri, temalı partiler, çocuk etkinlikleri ve daha özel günlerinizde Megastar Organizasyon güvencesiyle sizlerle.</p>\r\n<p>Hemen bizimle iletişime geçin, etkinliğinizi Megastar kalitesiyle taçlandırın!</p>",
+      "image": "/uploads/mtbilvbf-b92d3d21.png",
+      "gallery": "[]",
+      "video_url": null,
+      "duration": "45",
+      "category": "Dans",
+      "featured": 1,
+      "sort_order": 3,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": "12"
+    },
+    {
+      "id": 5,
+      "name": "COPACOBANA",
+      "slug": "copacobana",
+      "short_description": "Megastar Organizasyon farkıyla COPACOBANA gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<p><strong>COPACOBANA</strong>, Megastar Organizasyon profesyonel ekibi tarafından sahnelenen eşsiz bir gösteridir. Antalya başta olmak üzere tüm Türkiye'de 5 yıldızlı oteller, özel etkinlikler, düğünler, kurumsal organizasyonlar ve daha birçok mekânda başarıyla sunulmaktadır.</p>\r\n<h3>Gösteri Özellikleri</h3>\r\n<ul>\r\n<li>Profesyonel ve deneyimli kadro</li>\r\n<li>Özgün kostüm ve sahne tasarımı</li>\r\n<li>Yüksek enerjili performans</li>\r\n<li>İzleyici ile etkileşim</li>\r\n<li>Özel isteklerinize göre özelleştirme</li>\r\n</ul>\r\n<h3>Nerelerde Tercih Edilir?</h3>\r\n<p>5 yıldızlı otel eğlenceleri, düğün ve nişan organizasyonları, kurumsal firmalar, yeni yıl partileri, doğum günleri, temalı partiler, çocuk etkinlikleri ve daha özel günlerinizde Megastar Organizasyon güvencesiyle sizlerle.</p>\r\n<p>Hemen bizimle iletişime geçin, etkinliğinizi Megastar kalitesiyle taçlandırın!</p>",
+      "image": "/uploads/msnowz3o-7e8955ae.png",
+      "gallery": "[]",
+      "video_url": null,
+      "duration": null,
+      "category": "Dans",
+      "featured": 1,
+      "sort_order": 4,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": null
+    },
+    {
+      "id": 6,
+      "name": "COLOMBIA",
+      "slug": "colombia",
+      "short_description": "Megastar Organizasyon farkıyla COLOMBIA gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<p><strong>COLOMBIA</strong>, Megastar Organizasyon profesyonel ekibi tarafından sahnelenen eşsiz bir gösteridir. Antalya başta olmak üzere tüm Türkiye'de 5 yıldızlı oteller, özel etkinlikler, düğünler, kurumsal organizasyonlar ve daha birçok mekânda başarıyla sunulmaktadır.</p>\r\n<h3>Gösteri Özellikleri</h3>\r\n<ul>\r\n<li>Profesyonel ve deneyimli kadro</li>\r\n<li>Özgün kostüm ve sahne tasarımı</li>\r\n<li>Yüksek enerjili performans</li>\r\n<li>İzleyici ile etkileşim</li>\r\n<li>Özel isteklerinize göre özelleştirme</li>\r\n</ul>\r\n<h3>Nerelerde Tercih Edilir?</h3>\r\n<p>5 yıldızlı otel eğlenceleri, düğün ve nişan organizasyonları, kurumsal firmalar, yeni yıl partileri, doğum günleri, temalı partiler, çocuk etkinlikleri ve daha özel günlerinizde Megastar Organizasyon güvencesiyle sizlerle.</p>\r\n<p>Hemen bizimle iletişime geçin, etkinliğinizi Megastar kalitesiyle taçlandırın!</p>",
+      "image": null,
+      "gallery": "[]",
+      "video_url": null,
+      "duration": "45",
+      "category": "Dans",
+      "featured": 1,
+      "sort_order": 5,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": "12"
+    },
+    {
+      "id": 7,
+      "name": "VIVA MEXICO",
+      "slug": "viva-mexico",
+      "short_description": "Megastar Organizasyon farkıyla VIVA MEXICO gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<p><strong>VIVA MEXICO</strong>, Megastar Organizasyon profesyonel ekibi tarafından sahnelenen eşsiz bir gösteridir. Antalya başta olmak üzere tüm Türkiye'de 5 yıldızlı oteller, özel etkinlikler, düğünler, kurumsal organizasyonlar ve daha birçok mekânda başarıyla sunulmaktadır.</p>\n<h3>Gösteri Özellikleri</h3>\n<ul>\n<li>Profesyonel ve deneyimli kadro</li>\n<li>Özgün kostüm ve sahne tasarımı</li>\n<li>Yüksek enerjili performans</li>\n<li>İzleyici ile etkileşim</li>\n<li>Özel isteklerinize göre özelleştirme</li>\n</ul>\n<h3>Nerelerde Tercih Edilir?</h3>\n<p>5 yıldızlı otel eğlenceleri, düğün ve nişan organizasyonları, kurumsal firmalar, yeni yıl partileri, doğum günleri, temalı partiler, çocuk etkinlikleri ve daha özel günlerinizde Megastar Organizasyon güvencesiyle sizlerle.</p>\n<p>Hemen bizimle iletişime geçin, etkinliğinizi Megastar kalitesiyle taçlandırın!</p>",
+      "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=mexican%20folklore%20dance%20show%20colorful%20traditional%20luxury%20performance&image_size=landscape_16_9",
+      "gallery": "[]",
+      "video_url": null,
+      "duration": null,
+      "category": "Dans",
+      "featured": 1,
+      "sort_order": 6,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": null
+    },
+    {
+      "id": 8,
+      "name": "QUELLA URBAN",
+      "slug": "quella-urban",
+      "short_description": "Megastar Organizasyon farkıyla QUELLA URBAN gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<p><strong>QUELLA URBAN</strong>, Megastar Organizasyon profesyonel ekibi tarafından sahnelenen eşsiz bir gösteridir. Antalya başta olmak üzere tüm Türkiye'de 5 yıldızlı oteller, özel etkinlikler, düğünler, kurumsal organizasyonlar ve daha birçok mekânda başarıyla sunulmaktadır.</p>\n<h3>Gösteri Özellikleri</h3>\n<ul>\n<li>Profesyonel ve deneyimli kadro</li>\n<li>Özgün kostüm ve sahne tasarımı</li>\n<li>Yüksek enerjili performans</li>\n<li>İzleyici ile etkileşim</li>\n<li>Özel isteklerinize göre özelleştirme</li>\n</ul>\n<h3>Nerelerde Tercih Edilir?</h3>\n<p>5 yıldızlı otel eğlenceleri, düğün ve nişan organizasyonları, kurumsal firmalar, yeni yıl partileri, doğum günleri, temalı partiler, çocuk etkinlikleri ve daha özel günlerinizde Megastar Organizasyon güvencesiyle sizlerle.</p>\n<p>Hemen bizimle iletişime geçin, etkinliğinizi Megastar kalitesiyle taçlandırın!</p>",
+      "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=urban%20street%20dance%20hiphop%20group%20modern%20stage%20luxury%20performance&image_size=landscape_16_9",
+      "gallery": "[]",
+      "video_url": null,
+      "duration": null,
+      "category": "Dans",
+      "featured": 1,
+      "sort_order": 7,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": null
+    },
+    {
+      "id": 9,
+      "name": "ETOPIA",
+      "slug": "etopia",
+      "short_description": "Megastar Organizasyon farkıyla ETOPIA gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<p><strong>ETOPIA</strong>, Megastar Organizasyon profesyonel ekibi tarafından sahnelenen eşsiz bir gösteridir. Antalya başta olmak üzere tüm Türkiye'de 5 yıldızlı oteller, özel etkinlikler, düğünler, kurumsal organizasyonlar ve daha birçok mekânda başarıyla sunulmaktadır.</p>\n<h3>Gösteri Özellikleri</h3>\n<ul>\n<li>Profesyonel ve deneyimli kadro</li>\n<li>Özgün kostüm ve sahne tasarımı</li>\n<li>Yüksek enerjili performans</li>\n<li>İzleyici ile etkileşim</li>\n<li>Özel isteklerinize göre özelleştirme</li>\n</ul>\n<h3>Nerelerde Tercih Edilir?</h3>\n<p>5 yıldızlı otel eğlenceleri, düğün ve nişan organizasyonları, kurumsal firmalar, yeni yıl partileri, doğum günleri, temalı partiler, çocuk etkinlikleri ve daha özel günlerinizde Megastar Organizasyon güvencesiyle sizlerle.</p>\n<p>Hemen bizimle iletişime geçin, etkinliğinizi Megastar kalitesiyle taçlandırın!</p>",
+      "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=utopia%20futuristic%20led%20performance%20art%20show%20modern%20luxury%20event&image_size=landscape_16_9",
+      "gallery": "[]",
+      "video_url": null,
+      "duration": null,
+      "category": "Gösteri",
+      "featured": 1,
+      "sort_order": 8,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": null
+    },
+    {
+      "id": 12,
+      "name": "ORYANTAL",
+      "slug": "oryantal",
+      "short_description": "Megastar Organizasyon farkıyla ORYANTAL gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<h2>ORYANTAL SHOW</h2>\r\n<p>Doğu'nun gizemi, Batı'nın enerjisiyle buluşuyor. Sahne, ritim ve tutkunun birleştiği bu eşsiz gösteri, izleyenleri gerçek bir performans şölenine davet ediyor.</p>\r\n<p>Arjantinli ve Rus profesyonel dansçılardan oluşan uluslararası kadromuz, klasik oryantal zarafeti modern bir yorumla sahneye taşıyor. Gösteri boyunca; büyüleyici solo performanslar, senkronize hareketlerle göz kamaştıran <strong>2'li ve 3'lü Mezdeke gösterileri</strong>, karanlıkta parlayan <strong>LED kanat aksesuarları</strong> ve nefes kesen bir <strong>ateş show'u</strong> bir araya geliyor.</p>\r\n<h3>Gösteri Özellikleri</h3>\r\n<ul>\r\n<li>Uluslararası profesyonel dansçı kadrosu</li>\r\n<li>2'li ve 3'lü Mezdeke performansları</li>\r\n<li>LED kanat aksesuarlı gösteri</li>\r\n<li>Ateş show</li>\r\n<li>Özenle tasarlanmış özgün kostümler</li>\r\n<li>Yüksek enerjili koreografi ve izleyici etkileşimi</li>\r\n</ul>\r\n<h3>Nerelerde Sergilenir?</h3>\r\n<p>5 yıldızlı otellerin gece programlarından seçkin restoranların özel akşamlarına, düğün ve nişan törenlerinden kurumsal davetlere kadar birçok farklı ortamda uyum sağlayan bu gösteri, konuklara görsel açıdan zengin ve unutulmaz bir deneyim sunuyor.</p>",
+      "image": "https://i.ibb.co/rGXwtkL5/megastar-bellydance-kapakgorseli.png",
+      "gallery": "[]",
+      "video_url": "https://www.youtube.com/watch?v=MVFQ_Xt_am4",
+      "duration": "20-30",
+      "category": "Dans",
+      "featured": 1,
+      "sort_order": 11,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": "1-3"
+    },
+    {
+      "id": 13,
+      "name": "GO-GO",
+      "slug": "go-go",
+      "short_description": "Megastar Organizasyon farkıyla GO-GO gösterisi ile etkinliklerinizi unutulmaz kılın.",
+      "description": "<p><strong>GO-GO</strong>, Megastar Organizasyon profesyonel ekibi tarafından sahnelenen eşsiz bir gösteridir. Antalya başta olmak üzere tüm Türkiye'de 5 yıldızlı oteller, özel etkinlikler, düğünler, kurumsal organizasyonlar ve daha birçok mekânda başarıyla sunulmaktadır.</p>\n<h3>Gösteri Özellikleri</h3>\n<ul>\n<li>Profesyonel ve deneyimli kadro</li>\n<li>Özgün kostüm ve sahne tasarımı</li>\n<li>Yüksek enerjili performans</li>\n<li>İzleyici ile etkileşim</li>\n<li>Özel isteklerinize göre özelleştirme</li>\n</ul>\n<h3>Nerelerde Tercih Edilir?</h3>\n<p>5 yıldızlı otel eğlenceleri, düğün ve nişan organizasyonları, kurumsal firmalar, yeni yıl partileri, doğum günleri, temalı partiler, çocuk etkinlikleri ve daha özel günlerinizde Megastar Organizasyon güvencesiyle sizlerle.</p>\n<p>Hemen bizimle iletişime geçin, etkinliğinizi Megastar kalitesiyle taçlandırın!</p>",
+      "image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=gogo%20dancers%20club%20show%20party%20nightlife%20luxury%20stage%20performance&image_size=landscape_16_9",
+      "gallery": "[]",
+      "video_url": null,
+      "duration": null,
+      "category": "Dans",
+      "featured": 1,
+      "sort_order": 12,
+      "created_at": "2026-07-31T23:10:54.721Z",
+      "team_count": null
+    }
+  ],
+  "career_applications": [],
+  "contact_messages": [],
+  "settings": {
+    "whatsapp_number": "905555555555",
+    "site_title": "Megastar Organizasyon | Antalya Profesyonel Organizasyon Şirketi",
+    "meta_description": "Megastar Organizasyon - Antalya merkezli profesyonel organizasyon şirketi. Show grupları, sahne gösterileri, dans grupları, çocuk etkinlikleri ve lüks organizasyon çözümleri.",
+    "meta_keywords": "Antalya organizasyon, Megastar Organizasyon, show grupları, dans gösterisi, çocuk etkinliği, otel eğlencesi, profesyonel organizasyon, Antalya",
+    "address": "Antalya, Türkiye",
+    "phone": "+90 555 555 55 55",
+    "email": "info@megastarorganizasyon.com",
+    "facebook_url": "#",
+    "instagram_url": "#",
+    "youtube_url": "#",
+    "hero_title": "Antalya'nın Lüks Organizasyon Şirketi",
+    "hero_subtitle": "Megastar Organizasyon ile etkinliklerinizi unutulmaz kılın. Profesyonel show gruplarımız ve yaratıcı çözümlerimizle fark yaratıyoruz.",
+    "hero_image": "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=luxury%20hotel%20event%20organization%20stage%20night%20performance%20golden%20elegant%20crowd%20party%20antalya&image_size=landscape_16_9",
+    "about_text": "### Sahne Dünyasının Tanınan Adıyıyız\r\n**Megastar Organizasyon**, Antalya'nın kalbinde doğup Akdeniz'in lüks otellerine on yıldan fazla süredir profesyonel sahne grupları gönderen köklü bir eğlence organizasyon şirketidir. Lara, Kundu, Belek, Side ve Alanya'daki 5 yıldızlı zincir otellerle kurduğumuz uzun vadeli iş birliklerimiz; sahne hakimiyetimiz, sanatçı kadromuzun saha tecrübesi ve detaylara verdiğimiz önemin bir sonucudur.\r\n\r\nHer akşam onlarca sahneye sanatçı gönderiyor, sezon süresince binlerce davetliye profesyonel eğlence deneyimi yaşatıyoruz. Dans gruplarından oryantal showlara, LED kostümlü performanslardan çocuk tiyatrolarına, ateş gösterilerinden partilere kadar; oteliniz için uygun olan her konsepte özel ekiple çözüm üretiyoruz.\r\n\r\n### Neler Sunuyoruz?\r\n- Özelleştirilebilir dans ve sahne grupları\r\n- Uluslararası standartta solo ve grup performanslar\r\n- Konsept partiler, temalı geceler ve ana gösteri akışları\r\n- Çocuk kulübü şovları, animasyon ve sahne oyunları\r\n- Sahne kurulumu, ışık, ses ve kostüm yönetimi\r\n\r\nSezonluk otel sözleşmelerinizden tek seferlik özel etkinliklerinize kadar her ölçekte proje üretiyoruz. Sizin için sahneyi hazırlıyor, sanatçıları planlıyor ve programı kusursuz yönetiyoruz. Sadece keyif almak size, gerisini Megastar bilir.",
+    "site_logo": "/uploads/msirgl2q-8efb5efe.png",
+    "hero_video_url": "/uploads/msisiqyi-51a619b8.mp4"
+  },
+  "admin_users": [
+    {
+      "id": 1,
+      "username": "hamdullaherdem",
+      "password_hash": "pbkdf2_sha512$310000$b62d0efee29e91257469aeb4bcbc6c38$c7735e90de763dab577810d4a0018b86fa5051e47fa32d24f87d6e4007cdd5d6cc2cd4e7e83bb9e7571b5a72549be46e7cdaea6cc6a6d5002183ff75ea01ce85"
+    }
+  ],
+  "admin_sessions": [
+    {
+      "token": "5f51f73a892055917593ca290c76536b39ed59ada8088d7f29edea53f090d9ddfdc43728b8d1901c90f5495851df1adf",
+      "user_id": 1,
+      "created_at": "2026-07-31T23:15:52.221Z",
+      "expires_at": "2026-08-07T23:15:52.220Z"
+    },
+    {
+      "token": "f8be770235d86be81085c7fa5a07513f5321bc4bc650fa5015bc9a3c830537689e7ff71e7651c9ed16c1174e40a7f9bb",
+      "user_id": 1,
+      "created_at": "2026-07-31T23:15:58.399Z",
+      "expires_at": "2026-08-07T23:15:58.398Z"
+    },
+    {
+      "token": "ae453e3f96ca6678300f2dd11a0df576ae19508f87056874f4a5ddc195dc628694af783364f2562f0e34157d84f37d16",
+      "user_id": 1,
+      "created_at": "2026-08-06T12:38:52.505Z",
+      "expires_at": "2026-08-13T12:38:52.504Z"
+    },
+    {
+      "token": "a034e553185c9ae78554c92dc59f37e5b5088671cc7d67303ac2d9ebc6c54986ad7a61d2b5dd7b30403e75cf8110e500",
+      "user_id": 1,
+      "created_at": "2026-08-06T12:39:06.963Z",
+      "expires_at": "2026-08-13T12:39:06.963Z"
+    },
+    {
+      "token": "5c4297f370e3d1a773ec178e56fde8b5b91475349ed5890f22020c53f4170ff9558f03df206a836aeb3b4b10c4f31764",
+      "user_id": 1,
+      "created_at": "2026-08-10T20:18:10.357Z",
+      "expires_at": "2026-08-17T20:18:10.356Z"
+    },
+    {
+      "token": "7f81fad42054dd95daf494f89b8e8b15e7a78e7cb67f867ae7f1c93cae40dd1be14aec143b2c80eb997e114494d41d97",
+      "user_id": 1,
+      "created_at": "2026-08-18T23:42:36.696Z",
+      "expires_at": "2026-08-25T23:42:36.696Z"
+    },
+    {
+      "token": "5c023de378eb07b2fcb3e92112b5440c316307e1765526cb9a0260e856793304aa0a8218239a8471b1fa1598a22443fb",
+      "user_id": 1,
+      "created_at": "2026-08-27T12:44:08.242Z",
+      "expires_at": "2026-09-03T12:44:08.242Z"
+    }
+  ],
+  "seq": {
+    "shows": 21,
+    "career": 0,
+    "contact": 0,
+    "admin": 1,
+    "reference": 14,
+    "oriental": 7
+  },
+  "references": [
+    {
+      "id": 1,
+      "name": "Rixos Downtown Antalya",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 0,
+      "featured": 1,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 2,
+      "name": "Akra Hotel",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 1,
+      "featured": 1,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 3,
+      "name": "Crown Plaza Antalya",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 2,
+      "featured": 1,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 4,
+      "name": "Marriott Antalya",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 3,
+      "featured": 1,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 5,
+      "name": "Concorde De Luxe Resort",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 4,
+      "featured": 1,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 6,
+      "name": "Ramada Plaza Antalya",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 5,
+      "featured": 1,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 7,
+      "name": "Limak Lara De Luxe",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 6,
+      "featured": 0,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 8,
+      "name": "Sherwood Lara",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 7,
+      "featured": 0,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 9,
+      "name": "Alva Donna Resort",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 8,
+      "featured": 0,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 10,
+      "name": "Aska Lara Resort",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 9,
+      "featured": 0,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 11,
+      "name": "Sealife Kemer Resort",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 10,
+      "featured": 0,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 12,
+      "name": "Crystal Sunrise Queen",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 11,
+      "featured": 0,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 13,
+      "name": "Kervansaray Hotel",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 12,
+      "featured": 0,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    },
+    {
+      "id": 14,
+      "name": "Mirada Del Mar",
+      "logo": "",
+      "website": null,
+      "category": "5 Yıldızlı Otel",
+      "sort_order": 13,
+      "featured": 0,
+      "created_at": "2026-08-01T13:01:52.362Z"
+    }
+  ],
+  "oriental_reservations": []
+}

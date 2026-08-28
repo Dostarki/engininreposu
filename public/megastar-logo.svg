@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <linearGradient id="starGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f2d7a2"/>
+      <stop offset="45%" stop-color="#c7a56a"/>
+      <stop offset="100%" stop-color="#8f6b38"/>
+    </linearGradient>
+    <linearGradient id="textMegastar" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f2d7a2"/>
+      <stop offset="50%" stop-color="#c7a56a"/>
+      <stop offset="100%" stop-color="#8f6b38"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Beyaz arka plan -->
+  <circle cx="500" cy="500" r="490" fill="#ffffff"/>
+  <!-- Siyah dış çember -->
+  <circle cx="500" cy="500" r="490" fill="none" stroke="#0a0a0a" stroke-width="12"/>
+  <!-- Yıldız (ok) şekli -->
+  <g transform="translate(160, 360) scale(1.25)" filter="url(#glow)">
+    <path
+      fill="url(#starGrad)"
+      stroke="url(#starGrad)"
+      stroke-linejoin="miter"
+      stroke-width="2"
+      d="M 0 180
+         L 40 80
+         L 0 60
+         L 70 -30
+         L 90 -20
+         L 50 70
+         L 80 90
+         L 30 140
+         L 60 160
+         Z
+         M 20 180
+         L 60 80
+         L 130 -50
+         L 110 -70
+         L 190 -60
+         L 160 30
+         L 220 20
+         L 200 60
+         L 260 50
+         L 210 110
+         L 260 130
+         L 190 100
+         L 180 150
+         L 100 170
+         L 70 220
+         Z
+         M 30 60
+         L 110 -40
+         L 200 -30
+         L 280 -50
+         L 230 10
+         L 310 0
+         L 300 30
+         L 340 40
+         L 300 80
+         L 360 70
+         L 310 120
+         L 370 110
+         Z"
+    />
+    <!-- Yıldızın orta ışınları (iç çizgiler) -->
+    <path d="M 50 160 L 100 100 L 160 20 L 230 -10 L 300 -30 L 340 40 L 280 80 L 330 100" fill="none" stroke="#ffffff" stroke-opacity="0.85" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <!-- MEGASTAR Yazısı -->
+  <text x="400" y="515"
+    font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif"
+    font-size="130"
+    font-weight="900"
+    letter-spacing="-2"
+    fill="url(#textMegastar)"
+  >
+    MEGASTAR
+  </text>
+  <!-- EVENT COMPANY Yazısı -->
+  <text x="400" y="605"
+    font-family="'Arial', 'Helvetica Neue', sans-serif"
+    font-size="55"
+    font-weight="700"
+    letter-spacing="12"
+    fill="#0a0a0a"
+  >
+    EVENT COMPANY
+  </text>
+</svg>
